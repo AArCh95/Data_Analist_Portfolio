@@ -1,0 +1,5 @@
+# Python Dependencies for Dunnin Letter Generator
+pandas==2.0.3
+Pillow==10.0.0
+reportlab==4.0.4
+customtkinter==5.2.0
