@@ -14,12 +14,12 @@ Welcome to my **Data Analytics Portfolio**, where I showcase projects and case s
   - **IN PROGRESS** Master's Degree in Business Analytics from Universidad Latina.
 - **Technical Skills**: 
   - **SQL** (PostgreSQL, MySQL)
-  - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+  - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
   - **Data Visualization** (Tableau, Power BI)
   - **Statistics & A/B Testing**
   - **Excel** (PivotTables, advanced formulas, financial modeling, VBA)
 - **Soft Skills**:  
-  - Problem-solving, communication, teamwork, and adaptability. Excelent team player and able to work extremely     independently when needed
+  - Strong problem-solving, communication, teamwork, and adaptability skills. I am an excellent team player and can also work extremely independently when needed.
 
 ## **🎯 Core Competencies**
 
