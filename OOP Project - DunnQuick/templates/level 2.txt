@@ -1,0 +1,28 @@
+
+
+
+[DATE]
+
+[CUSTOMER NAME] & [ADDRESS]  
+Account number: [ACCOUNT NUMBER]  
+Total Owed: [AMOUNT] (applying any available credits)  
+Undisputed Past due Amount: [PAST DUE AMOUNT] (applying any available credits)
+
+Subject: OVERDUE INVOICES - Second Reminder
+
+Dear Sir or Madam,
+
+Please be advised that your account continues to show a past due balance in the amount indicated above, as a result of goods and services provided. A statement of account showing the past due balance as well as the invoices' due dates is attached for your convenience.
+
+Please note that full payment must be received no later than [DATE TO BE PAID BY] by WIRE transfer or check, per the payment and banking instructions indicated on the relevant invoice. Each entity is clearly identified on the invoices issued, and each has its remittance information for payments printed at the bottom of each invoice. Should we not receive your payment prior to this date, we will have no alternative but to initiate collection procedures. Furthermore, as of this date, if full payment is not received, any further purchases will be on a Cash-in-Advance basis and any coverage or other services, may be suspended at the sole discretion of the relevant entity, as per the applicable terms and conditions or relevant agreement. Please be advised that overdue invoices may bear interest.
+
+If payment has already been sent, we thank you for your remittance and request that you send us your payment confirmation with details (bank transfer or check copy) to enable us to trace your payment and apply it promptly to your account, to the following e-mail address: [PAYMENT CONFIRMATION EMAIL].
+
+In the meantime, if you require further assistance concerning this matter, please feel free to contact me at [COLLECTOR PHONE NUMBER] or reply to [COLLECTOR EMAIL] for prompt attention and your continued business.
+
+Sincerely,
+
+[COLLECTOR NAME]  
+Account Manager  
+[LOCATION]  
+Direct: [COLLECTOR PHONE NUMBER]  

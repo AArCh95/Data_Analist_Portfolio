@@ -1,0 +1,32 @@
+
+
+
+[DATE]
+
+[CUSTOMER NAME] & [ADDRESS]
+Account number: [ACCOUNT NUMBER]
+Total Owed: [AMOUNT] (applying any available credits)
+Undisputed Past due Amount: [PAST DUE AMOUNT] (applying any available credits)
+
+Subject: FINAL REMINDER - NOTICE OF INTENT
+
+Dear Sir, Madam,
+
+Despite numerous attempts made by our Collection Center to obtain payment from your company, your account still shows a past due balance as highlighted on the attached statement of account.
+
+Considering we have not received a firm commitment to resolve this matter, please note that your account terms have been changed to Cash-in-Advance. If payment is not received within the next [NUMBER OF DAYS] calendar days, we will suspend your supply of goods and services (NSNS) effective [DATE TO BE PAID BY].
+
+To avoid this action, we must receive full payment of your past due balance before [DATE TO BE PAID BY], via WIRE transfer or check, per the payment and banking instructions indicated on the relevant invoice. Each entity is clearly identified on the invoices issued, and each has its remittance information for payments printed at the bottom of each invoice. Failure to do so will leave us no alternative but to take all necessary steps to collect this past due balance. Please be advised that overdue invoices shall bear interest at the rate provided in the relevant agreement or terms and conditions.
+
+If payment has already been sent, we thank you for your remittance and request that you send us your payment confirmation with details (bank transfer or check copy) to enable us to trace your payment and apply it promptly to your account, at the following e-mail address: [PAYMENT CONFIRMATION EMAIL].
+
+This notice is being sent without prejudice to any other rights or remedies we may have at law or under the agreement, all of which are expressly reserved.
+
+Please govern yourself accordingly.
+
+Sincerely,
+
+[COLLECTOR NAME]
+Account Manager
+[LOCATION]
+Direct: [COLLECTOR PHONE NUMBER]

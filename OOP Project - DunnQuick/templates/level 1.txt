@@ -1,0 +1,28 @@
+
+
+
+[DATE],
+
+[CUSTOMER NAME] & [ADDRESS]
+Account number: [ACCOUNT NUMBER]
+Total Owed: [AMOUNT] (applying any available credits)
+Undisputed Past due Amount: [PAST DUE AMOUNT] (applying any available credits)
+
+Subject: OVERDUE INVOICES
+
+Dear Sir, Madam,
+
+Your company currently owes the past due balance indicated above, as a result of goods and services provided. A statement of account showing the past due balance as well as the invoices' due dates is attached for your convenience.
+
+We hereby request payment of the above-mentioned past due balance by WIRE transfer or check before [DATE TO BE PAID BY], per the payment and banking instructions identified on the relevant invoice. Each entity is clearly identified on the invoices issued, and each has its remittance information for payments printed at the bottom of each invoice.
+
+If payment has already been sent, we thank you for your remittance and request that you send us your payment confirmation with details (bank transfer or check copy) to enable us to trace your payment and apply it promptly to your account, to the following e-mail address: [PAYMENT CONFIRMATION EMAIL].
+
+In the meantime, if you require further assistance concerning this matter, please feel free to contact me at: [COLLECTOR PHONE NUMBER] or reply to [COLLECTOR EMAIL] for prompt attention.
+
+Sincerely,
+
+[COLLECTOR NAME]
+Account Manager
+[LOCATION]
+Direct: [COLLECTOR PHONE NUMBER]
