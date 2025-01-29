@@ -68,8 +68,6 @@ I’m actively looking for a **Data Analyst** role where I can apply my skills t
 
 ### **Thank you for visiting!**  
 
-### **Thank You for Visiting!**
-
 I appreciate you taking the time to explore my portfolio. While it’s still **a work in progress**, I’m continuously improving my projects and adding new case studies to showcase my evolving data analysis skills. I apologize for any missing details or incomplete sections—but rest assured, there’s much more to come!
 
 I’m excited to share future projects that will delve deeper into **data visualization**, **machine learning**, and **advanced analytics**. Stay tuned for **regular updates** and feel free to **star** ⭐ this repository or **open an issue** if you have any suggestions or want to see specific data-related topics covered.
