@@ -3,7 +3,8 @@ My Personal Programming Portfolio
 
 
 
-# **\[Aaron Arce\] – Data Analyst Portfolio**
+# **\[Aaron Arce\] – Data Analyst Portfolio** 
+# **\[Your Name\] – Data Analyst Portfolio**
 
 ![GitHub followers](https://img.shields.io/github/followers/your_github_username?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/your_github_username/your_portfolio_repo?style=social)
