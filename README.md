@@ -1,8 +1,3 @@
-# my_portfolio
-My Personal Programming Portfolio 
-
-
-
 # **Aaron Arce – Data Analyst Portfolio** 
 
 
