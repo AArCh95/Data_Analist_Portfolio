@@ -3,22 +3,19 @@ My Personal Programming Portfolio
 
 
 
-# **\[Aaron Arce\] – Data Analyst Portfolio** 
-# **\[Your Name\] – Data Analyst Portfolio**
+# **Aaron Arce – Data Analyst Portfolio** 
 
-![GitHub followers](https://img.shields.io/github/followers/your_github_username?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/your_github_username/your_portfolio_repo?style=social)
 
 ## **👋 Introduction**
 
-Hello! I’m **\[Aaron Arce\]**, a data enthusiast passionate about turning raw data into actionable insights. My background is in **[\Finance\]** and includes working with SQL, Python, and data visualization tools to solve business problems and support decision-making.
+Hello! I’m **Aaron Arce**, a data enthusiast passionate about turning raw data into actionable insights. My background is in **Finance** and includes working with SQL, Python, and data visualization tools to solve business problems and support decision-making.
 
 Welcome to my **Data Analytics Portfolio**, where I showcase projects and case studies that reflect my experience in **data cleaning**, **exploratory data analysis (EDA)**, **visualization**, and **statistical modeling**.
 
 ## **📚 About Me**
 
 - **Education**: 
-  - \[Bachelors Degree\] in \[Business Administration\] from \[Fidelitas\].
+  - Bachelors Degree in \[Business Administration\] from \[Fidelitas\].
   - **IN PROGRESS** \[Master's Degree\] in \[Business Analytics\] from \[Universidad Latina\].
 - **Technical Skills**: 
   - **SQL** (PostgreSQL, MySQL)
