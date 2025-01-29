@@ -49,7 +49,8 @@ Welcome to my **Data Analytics Portfolio**, where I showcase projects and case s
 
 ## **📈 Data Visualizations**
 
-To see some of my dashboards and visualizations, check the **`visualizations/`** folder (if included in the repo) or visit my **[Tableau Public Profile](#)** (link to your profile) for interactive dashboards.
+To see some of my dashboards and visualizations, check the **`Visualizations/`** folder or my **`Data Analysis with Python/`** folder with multiple projects and some light visualisation.
+.
 
 ## **💡 Future Plans**
 
