@@ -1,13 +1,44 @@
 /*  
 Portfolio Project: EDA Layoffs Dataset
 Author: Aaron Arce
-LinkedIn: https://www.linkedin.com/in/aar%C3%B3n-arce-a71079277/ 
+LinkedIn: https://www.linkedin.com/in/aar%C3%B3n-arce-a71079277/
 GitHub: https://github.com/AArCh95/my_portfolio
 Data Source: Layoffs Dataset - https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
+=== REPRODUCTION INSTRUCTIONS ===
+1. PREREQUISITES:
+   - Completed Data Cleaning Project (creates layoffs_staging2 table)
+   - MySQL 8.0+ installed
+   - 500MB+ storage available
+
+2. GET STARTED:
+   -- Restore cleaned dataset from previous project
+   -- OR import pre-cleaned data:
+   CREATE DATABASE IF NOT EXISTS world_layoffs;
+   USE world_layoffs;
+   
+   -- Create table structure matching cleaned data
+   CREATE TABLE layoffs_staging2 (
+       company TEXT,
+       location TEXT,
+       industry TEXT,
+       total_laid_off INT,
+       percentage_laid_off DECIMAL(5,2),
+       date DATE,
+       stage TEXT,
+       country TEXT,
+       funds_raised_millions INT
+   );
+   
+   -- Import CSV using MySQL Workbench:
+   - Right-click 'layoffs_staging2' → Table Data Import Wizard
+   - Select cleaned_data.csv from repository
+   - Map date column to DATE format
+
 Objective: Analyzed global workforce reductions to identify trends and business impacts.  
+Key Insights: Tech sector dominance in layoffs, geographic concentration patterns, stage-specific vulnerabilities  
 Key Skills Demonstrated: SQL Cleaning, EDA, CTEs, Window Functions, Data Storytelling  
-Tools Used: MySQL 
+Tools Used: MySQL Workbench 8.0, Python (Data Visualization)  
 */
 
 -- ####################################
