@@ -5,10 +5,62 @@ LinkedIn: https://www.linkedin.com/in/aar%C3%B3n-arce-a71079277/
 GitHub: https://github.com/AArCh95/my_portfolio
 Data Source: Layoffs Dataset - https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
+=== REPRODUCIBILITY INSTRUCTIONS ===
+1. Download layoffs.csv from Kaggle or from the SQL folder
+2. Install MySQL (8.0+ recommended)
+3. Run database setup commands below
+4. Execute entire script sequentially
+
 Objective: Transformed raw layoffs data into analysis-ready format through rigorous quality assurance  
 Key Skills Demonstrated: SQL Data Cleaning, Duplicate Management, Data Validation, Standardization  
 Tools Used: MySQL, Data Quality Assurance Techniques  
 */
+
+/*  
+##############################
+### DATABASE SETUP INSTRUCTIONS ###
+##############################
+
+1. Create Database & Table Structure:
+-- Create database
+CREATE DATABASE IF NOT EXISTS world_layoffs;
+USE world_layoffs;
+
+-- Create main table structure (match your CSV columns)
+CREATE TABLE layoffs (
+    company TEXT,
+    location TEXT,
+    industry TEXT,
+    total_laid_off INT,
+    percentage_laid_off TEXT,
+    date TEXT,
+    stage TEXT,
+    country TEXT,
+    funds_raised_millions INT
+);
+
+2. Import Raw Data:
+-- Using MySQL Workbench:
+- Right-click 'layoffs' table → Table Data Import Wizard
+- Select layoffs.csv from Kaggle dataset
+- Match columns automatically → Finish
+
+-- Using Command Line:
+LOAD DATA INFILE '/path/to/layoffs.csv'
+INTO TABLE layoffs
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
+3. Verify Raw Data Load:
+SELECT COUNT(*) FROM layoffs;  -- Should match CSV row count
+
+4. Execute Cleaning Script:
+-- Run all following SQL commands below this line
+-- (Your existing cleaning code here)
+*/
+
 
 -- ########################################
 -- ### SECTION 1: DATA QUALITY ASSESSMENT ###
